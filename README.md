@@ -1,0 +1,4 @@
+- 👋 Hello! I’m Gino DePolo (@StudentGinoDePolo) Student/Engineer/Creator
+- 👀 I’m interested in building things! Designing, 3D modeling, manufacturing, and learning new ways to do it!
+- 🌱 I’m currently learning how to create alternative interfaces and virtual reality environments likely utilizing Unity and C#
+- I have no idea how to use Github to it's fullest potential but I want to!
